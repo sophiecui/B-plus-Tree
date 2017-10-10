@@ -1,0 +1,5 @@
+How to use the file
+1: go into the bplustree directory
+2: use make 
+3: run the execute program called main by ./main
+4: delete the .o file by run make clean
