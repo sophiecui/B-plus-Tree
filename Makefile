@@ -1,8 +1,3 @@
-#Name:Beiming CUI
-#Loginid:beimingc@usc.edu
-#EE599
-#Spring 2017
-
 main: main.o bplus.o node.o
 	g++ -ggdb -Wall -pthread -std=c++11 -o main main.o bplus.o node.o
 
